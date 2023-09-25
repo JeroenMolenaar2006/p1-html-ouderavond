@@ -26,12 +26,12 @@ nav {
 
 }
 
-img{
+img {
     height: auto;
     width: 30px;
 }
 
-body{
+body {
     min-height: 100;
     background-color: darkolivegreen;
 }
@@ -84,10 +84,14 @@ footer {
     font-size: larger;
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    margin-left:200px;
+    margin-left: 200px;
 }
 
 .section2 {
     margin-left: 210px;
 }
 
+.logotcr {
+    height: 5vh;
+    width: 10vw;
+}
